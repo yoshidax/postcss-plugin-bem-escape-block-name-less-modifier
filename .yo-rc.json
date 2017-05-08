@@ -1,0 +1,9 @@
+{
+  "generator-postcss-plugin": {
+    "pluginName": "postcss-plugin",
+    "pluginDescription": "PostCSS plugin generated with generator-postcss-plugin",
+    "author": "yoshidax",
+    "email": "takehiko.yoshida.z@gmail.com",
+    "authorUrl": "https://github.com/yoshidax/postcss-plugin"
+  }
+}

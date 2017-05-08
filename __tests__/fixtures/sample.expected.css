@@ -1,0 +1,24 @@
+.bar.\--active.\--danger.\--important {
+	color: black;
+}
+
+.foo.\--active {
+	color: red;
+}
+
+.hoge.-foo-bar {
+    color: blue;
+}
+
+.hoge.foo--bar {
+    color: blue;
+}
+
+.hoge.foo--bar,
+.hoge.\--active {
+    color: blue;
+}
+
+.hoge {
+    color: purple;
+}
